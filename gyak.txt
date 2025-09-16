@@ -1,0 +1,9 @@
+1.
+Ma hétfő van, 100 nap múlva szerda
+be --> hanyadik nap van, hany nap telik el
+ki --> hanyadik, es milyen nap lesz
+
+2.
+be --> egy karaktert, es egy szamot
+ki --> azt a karaktert szeretnenk titkositani, ugy hogy az adott karaktert 
+eltojuk a számmal
