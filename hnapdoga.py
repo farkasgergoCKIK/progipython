@@ -93,6 +93,17 @@ kulonbseg=osszegpozitiv-abs(osszegnegativ)
 print("A pozitív és negatív számok összegének különbsége:", kulonbseg)
 
 
+#2.-es feladat, gyakorlas
+
+t = [3, 1, -4, -4, 3, 0, 2, 3, -1, -1, -3, -2, 4, 1, -2, -1, 2, -3, 3, 4]
+db=0
+for i in range(len(t)):
+    if t[i]>0 and t[i]%2==0:
+        db+=1   
+        print("A pozitív páros számok darabszáma: ", db)
+        
+
+
 
 
 
