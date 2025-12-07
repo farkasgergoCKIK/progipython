@@ -78,4 +78,22 @@ else:
 
 
 
+#gyakorlas
+
+#1.-es feladat, A;
+t = [3, 1, -4, -4, 3, 0, 2, 3, -1, -1, -3, -2, 4, 1, -2, -1, 2, -3, 3, 4]  
+osszegpozitiv=0
+osszegnegativ=0
+for i in range (t[i]):
+    if t[i]>0:
+        osszegpozitiv+=t[i]
+    else:
+        osszegnegativ+=t[i]
+kulonbseg=osszegpozitiv-abs(osszegnegativ)
+print("A pozitív és negatív számok összegének különbsége:", kulonbseg)
+
+
+
+
+
 
